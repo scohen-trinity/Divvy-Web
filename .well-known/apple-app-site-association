@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "TEAMID.com.divvy.divvyapp",
+                "appID": "MSWCN57RNN.com.divvy.divvyapp",
                 "paths": [
                     "/",
                     "/somepath/*"
