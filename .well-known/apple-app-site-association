@@ -5,8 +5,7 @@
             {
                 "appID": "MSWCN57RNN.com.divvy.divvyapp",
                 "paths": [
-                    "/",
-                    "/somepath/*"
+                    "/open_app"
                 ]
             }
         ]
